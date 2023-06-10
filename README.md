@@ -8,7 +8,7 @@ This web app is developed with Flask on a [tensorflow model](https://github.com/
 
 To get started, follow the steps below:
 
- 1. Install the following dependencies: tensorflow v1, flask, opencv
+ 1. Install the following dependencies: tensorflow v1 (v2), flask, opencv, pillow
  2. Download the [semantic model](https://grfia.dlsi.ua.es/primus/models/PrIMuS/Semantic-Model.zip) developed by Calvo-Zaragoza et al.
  3. Download the [semantic vocabulary](https://github.com/calvozaragoza/tf-deep-omr/blob/master/Data/vocabulary_semantic.txt)
  4. Download the font [Aaargh.ttf](https://www.fontsquirrel.com/fonts/aaargh) (this is needed to annotate the image with the ABC notation)
